@@ -1,4 +1,2 @@
-# Advent of Code
-
-## 2024
-Written in Go
+# advent-of-code
+Here are my submissions for Advent of Code
