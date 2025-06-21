@@ -1,4 +1,5 @@
 # Advent of Code
 
-## ![image](https://github.com/user-attachments/assets/961c3c70-46fc-4526-a927-a05544d5b1f3)
+## ![image](https://github.com/user-attachments/assets/5515e415-2677-465b-8d10-486dcfd35fbe)
+
 Written in Go
